@@ -21,9 +21,4 @@ python convert_to_exe.py
 - Python
 - PyInstaller
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Adjust the sections (like Example and License) according to your specific project details and preferences.
