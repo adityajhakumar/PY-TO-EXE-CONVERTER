@@ -2,7 +2,7 @@ import os
 import subprocess
 
 def convert_to_exe():
-    python_file_dir = r"C:\Users\adity\Desktop\eyecourser.py"
+    python_file_dir = r"REPLACE WITH YOUR PYTHON DIRECTORY"
     
     # Check if the directory exists
     if not os.path.exists(python_file_dir):
