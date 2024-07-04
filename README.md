@@ -2,7 +2,7 @@
 
 # convert_to_exe.py
 
-![Logo](https://example.com/your-logo.png)
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
 ## Overview
 This Python script automates the conversion of a designated Python file into a standalone executable (.exe) using PyInstaller. It includes error handling to verify file existence and validity before initiating the conversion process.
